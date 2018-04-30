@@ -4,7 +4,6 @@ import csv
 
 filename = 'sydney_weather_high.csv'
 
-
 with open(filename) as f:
     reader = csv.reader(f)
     month_highs = []    # Used to store
