@@ -1,2 +1,2 @@
-# pythonexamples
-Learning Python from real examples
+# python_examples
+Learning Python by real examples.
