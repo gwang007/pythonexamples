@@ -94,7 +94,6 @@ chart.add('', stars)
 chart.render_to_file('python_repos.svg')
 
 
-
 my_config = pygal.Config()
 my_config.x_label_rotation = 45
 my_config.show_legend = False
